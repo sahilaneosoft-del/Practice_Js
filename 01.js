@@ -28,5 +28,3 @@ const solution2 =(arr)=>{
     return results 
 }
 
-
-//hgchgc
